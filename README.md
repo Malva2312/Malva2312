@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a Computer Science professional holding an MSc with a strong focus on Artificial Intelligence and Machine Learning, with research specialisation in Computer Vision and medical image analysis — specifically lung nodule characterisation using information fusion techniques. Currently working as a Technology Analyst at Deloitte Portugal, within the Engineering AI & Data practice for Financial Services, where I contribute to data migration projects across complex ETL pipelines. My aim is to bridge rigorous research with production-ready engineering, applying machine learning where it creates measurable impact.
+I am a Computer Science professional holding an MSc with a strong focus on Artificial Intelligence and Machine Learning, with research specialisation in Computer Vision and medical image analysis — specifically lung nodule characterisation using information fusion techniques.
+
+Currently working as a Technology Analyst at Deloitte Portugal, within the Engineering AI & Data practice for Financial Services, where I contribute to data migration projects across complex ETL pipelines. 
+
+My aim is to bridge rigorous research with production-ready engineering, applying machine learning where it creates measurable impact.
 
 
 ## 🌐 Socials:
